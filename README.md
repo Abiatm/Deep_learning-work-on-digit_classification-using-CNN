@@ -1,1 +1,1 @@
-# Deep_learning-work-on-digit_classification-using-CNN
+# Deep_learning-project-on-digit_classification-using-CNN
